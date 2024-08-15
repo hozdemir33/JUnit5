@@ -12,7 +12,12 @@ public class Run {
        double m = t1.SubtractingNumbers(20,10);
         System.out.println(m);
 
+     //   t1.divideNumbers(34, 23);
+
+        System.out.println(t1.divideNumbers(34,23));
 
     }
 
 }
+
+
