@@ -16,6 +16,8 @@ public class Run {
 
         System.out.println(t1.divideNumbers(34,23));
 
+        System.out.println(t1.divideNumbers(34,17));
+
     }
 
 }
